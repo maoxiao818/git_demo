@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 line 1 a
 line 2 b
-=======
 b line1
->>>>>>> test
